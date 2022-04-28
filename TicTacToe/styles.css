@@ -1,0 +1,39 @@
+body{
+    height: 767px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid red; */
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    height: 500px;
+    width: 500px;
+}
+
+table{
+    height: 500px;
+    width: 500px;
+    /* border: 2px solid red; */
+}
+
+td{
+    border: 9px solid rgb(9, 12, 181);
+}
+
+td button{
+    height: 144px;
+    width: 144px;
+    background-color: white;
+    border: none;
+    font-size: 125px;
+}
+td button:hover{
+    cursor: pointer;
+    background-color: rgb(199, 199, 199);
+    border: 2px solid black;
+}
