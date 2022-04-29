@@ -1,0 +1,12 @@
+
+#heading{
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    color: red;
+}
