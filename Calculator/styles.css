@@ -1,0 +1,217 @@
+body {
+    /* border: 2px solid rgb(119, 0, 255); */
+    background-color: #202124;
+
+}
+
+.container {
+    justify-content: center;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 493px;
+}
+
+
+#innerBox {
+    /* border: 2px solid rgb(240, 159, 159); */
+}
+
+h1 {
+    color: #e8eaed;
+}
+
+button {
+    width: 87px;
+    height: 41px;
+    margin-top: 6px;
+}
+
+#btnClearAll {
+    width: 360px;
+    background-color: #ea3a49;
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+#row1 {
+    width: 334px;
+    height: 48px;
+    background: white;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 26px;
+}
+
+#input{
+    /* border: 2px solid red; */
+}
+#btnEqual {
+    background-color: #8ab4f7;
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #202124;
+}
+
+#btnDot {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn0 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn1 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn2 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn3 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn4 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn5 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn6 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn7 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn8 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btn9 {
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+
+#btnPlus {
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e8eaed;
+    background-color: #5f6367;
+}
+
+#btnMinus {
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e8eaed;
+    background-color: #5f6367;
+}
+
+#btnCross {
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e8eaed;
+    background-color: #5f6367;
+}
+
+#btnDivide {
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e8eaed;
+    background-color: #5f6367;
+}
+
+button:hover {
+    cursor: pointer;
+}
